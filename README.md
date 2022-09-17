@@ -7,7 +7,7 @@ Made By:
 * Michael Nasr, Raiden (Programming)
 * Toshi (3D Modelling & Music)
 
-The best part of the project was creating the spawner algorithm that was in charge of increasing the density of the roads over time :man_technologist:.
+The best part of the project was creating the spawner algorithm that was in charge of increasing the density of the traffic over time :man_technologist:.
 
 This game was made in 2 days for the BenBonk #2 gameDev competition where we scored 15th place overall and got featured on his youtube video!
 
