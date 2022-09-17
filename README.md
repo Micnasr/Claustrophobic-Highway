@@ -1,6 +1,6 @@
 # Claustrophobic Highway :car:
 
-You're on a highway with lots of cars around you. You need to avoid cars around you while trying to travel the furthest distance possible.
+You're on a highway with lots of cars around you. You need to avoid traffic while trying to travel the furthest distance possible.
 You need to keep moving (to reach the checkpoints) or you will run out of time :oncoming_automobile:	.
 
 Made By:
